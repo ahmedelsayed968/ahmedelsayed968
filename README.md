@@ -15,4 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelsayed968&show_icons=true&locale=en&layout=compact" alt="ahmedelsayed968" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&show_icons=true&locale=en" alt="ahmedelsayed968" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&theme=dark&show_icons=true)
