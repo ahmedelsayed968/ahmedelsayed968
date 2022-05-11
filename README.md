@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elsayed Rashad</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsayed968&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsayed968" /> </p>
+<h1 align="center">I'm Ahmed Elsayed</h1>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelsayed968" alt="ahmedelsayed968" /></a> </p>
 
