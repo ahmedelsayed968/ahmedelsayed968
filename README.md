@@ -16,7 +16,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedelsayed968&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedelsayed968&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedelsayed968&theme=github_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&theme=dark&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&theme=github_dark&hide=contribs,prs)
 
 
 
