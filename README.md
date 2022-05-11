@@ -16,4 +16,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&theme=dark&hide=contribs,prs)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&theme=dark&hide=contribs,prs)</p>
