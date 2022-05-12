@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ahmed Elsayed
 #### Computer Engineering Student
-![Computer Engineering Student](https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/ai_and_intelligent_automation_informa_tech.jpg)
+![Computer Engineering Student](https://www.freepik.com/premium-photo/double-exposure-image-financial-graph-virtual-human_3356857.htm)
 
 I'm a Computer Engineering student
 in the faculty of engineering at Ain shams university, in my junior year.
