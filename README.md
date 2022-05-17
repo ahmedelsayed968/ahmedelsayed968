@@ -2,11 +2,11 @@
 ### Computer Engineering Student
 
 <p align="center">
-    <a href="https://twitter.com/AbdulrahmanKamr"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/abdulrahman-mohamed-917a93130/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a ><img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png"/></a>
+    <a ><img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png"/></a>
   </p>
   
-  <img src="https://github.com/abdelrahmaan/abdelrahmaan/blob/master/profile-img_1.png" align="right" width="25%"/>
+  <img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png" align="right" width="25%"/>
 
 I'm a Computer Engineering student
 in the faculty of engineering at Ain shams university, in my junior year.
