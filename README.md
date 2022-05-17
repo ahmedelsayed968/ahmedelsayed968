@@ -1,6 +1,12 @@
 # Hi there 👋, I'm Ahmed Elsayed
 ### Computer Engineering Student
-![Computer Engineering Student](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?t=st=1652324552~exp=1652325152~hmac=8a64609a7995dc159196c871c7bc7f649f2ae254409f375fd59c97d0898e6880&w=1380)
+
+<p align="center">
+    <a href="https://twitter.com/AbdulrahmanKamr"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/abdulrahman-mohamed-917a93130/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/abdelrahmaan/abdelrahmaan/blob/master/profile-img_1.png" align="right" width="25%"/>
 
 I'm a Computer Engineering student
 in the faculty of engineering at Ain shams university, in my junior year.
