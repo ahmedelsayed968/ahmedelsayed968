@@ -3,10 +3,9 @@
 
 <p align="center">
     <a ><img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png"/></a>
-    <a ><img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png"/></a>
   </p>
   
-  <img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png" align="right" width="25%"/>
+
 
 I'm a Computer Engineering student
 in the faculty of engineering at Ain shams university, in my junior year.
