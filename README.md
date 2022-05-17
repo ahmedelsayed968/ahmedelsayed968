@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ahmed Elsayed
-### Computer Engineering Student
+
 
 <p align="center">
     <a ><img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png"/></a>
@@ -7,11 +7,11 @@
   
 
 
-###I'm a Computer Engineering student
-###in the faculty of engineering at Ain shams university, in my junior year.
-###l have a mixed interest in Software development, 
-###Embedded systems development, and dealing with the data such as ML & DL & Data Science.
-###I have joined Acmacis as a trainee as well as Applai which they're student activities.
+<h2>I'm a Computer Engineering student</h2>
+<h3>at Ain shams university, in my junior year.
+l have a mixed interest in Software development, 
+Embedded systems development, and dealing with the data such as ML & DL & Data Science.
+I have joined Acmacis as a trainee as well as applAi which they're student activities.</h3>
 
 
 
