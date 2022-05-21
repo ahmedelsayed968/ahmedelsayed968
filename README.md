@@ -23,7 +23,7 @@ I have joined Acmacis as a trainee as well as applAi which they're student activ
 <a ><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 <a ><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayed968&theme=github_dark)  
+
 
 
 
@@ -42,7 +42,9 @@ I have joined Acmacis as a trainee as well as applAi which they're student activ
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedelsayed968&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedelsayed968&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedelsayed968&theme=github_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&theme=github_dark&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed968&theme=github_dark&hide=contribs)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayed968&theme=dark)  
 
 
