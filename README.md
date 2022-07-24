@@ -32,7 +32,10 @@ I have joined Acmacis as a trainee as well as applAi which they're student activ
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-elsayed-9046771a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-elsayed-9046771a2/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmedelsayed968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedelsayed968" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmedeltop968" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" alt="ahmedelsayed968" height="30" width="40" /></a>
 </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
