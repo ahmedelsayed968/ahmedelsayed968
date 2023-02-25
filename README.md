@@ -44,10 +44,10 @@ always excited to begin new challenges,develop my skills and achieve personal gr
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-# GitHub Achievements:
+# GitHub Achievements 🏆:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-# GitHub Statistics: 
+# GitHub Statistics 📊: 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedelsayed968&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedelsayed968&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedelsayed968&theme=github_dark)
