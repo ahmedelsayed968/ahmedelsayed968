@@ -5,15 +5,14 @@
     <a ><img src="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/profile-img_1.png"/></a>
   </p>
   
-
-<h2> About Me</h2>
+# About Me
 <h3>I'm a Computer Engineering student at the faculty of engineering, Ain shams university,
 in my senior year. l have a mixed interest in Software development
 and dealing with the data such as Machine Learning, and Deep Learning.
 I’m curious to learn more things related to mentioned tracks,
 always excited to begin new challenges,develop my skills and achieve personal growth. </h3>
 
-<h2 align="left">Connect with me:
+<h2> <b>Connect with me<b>:
 <img src ="https://github.com/ahmedelsayed968/ahmedelsayed968/blob/main/Handshake.gif",width="20", height="40",align="left"/>
 </h2>
 
@@ -26,7 +25,7 @@ always excited to begin new challenges,develop my skills and achieve personal gr
 <a href="https://leetcode.com/ahmedeltop968" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="ahmedelsayed968" height="30" width="40" /></a>    
 </p>
 
-<h2 align="left">Languages and Tools🛠:</h2>
+# Languages and Tools🛠:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
